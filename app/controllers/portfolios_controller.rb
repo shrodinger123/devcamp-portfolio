@@ -24,6 +24,10 @@ class PortfoliosController < ApplicationController
     @portfolio_item = Portfolio.find(params[:id])
   end
 
+  def show
+    @portfolio_item = Portfolio.find(params[:id])
+  end
+
   def update
     respond_to do |format|
       @portfolio_item = Portfolio.find(params[:id])
