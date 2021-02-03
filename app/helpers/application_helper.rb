@@ -20,4 +20,8 @@ module ApplicationHelper
 
    end
   end
+
+  def copyright_generator
+    @copyright = AkViewTool::Renderer.copyright 'Aniket', 'All right reserved'
+  end
 end

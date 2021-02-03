@@ -51,3 +51,4 @@ gem 'devise', '~> 4.7', '>= 4.7.3'
 
 gem 'bootstrap', '~> 5.0.0.beta1'
 gem 'jquery-rails'
+gem 'ak_view_tool', git: 'https://github.com/shrodinger123/ak_view_tool'
