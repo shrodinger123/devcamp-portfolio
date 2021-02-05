@@ -39,7 +39,7 @@
     <orderEntry type="library" scope="PROVIDED" name="activerecord (v6.1.0, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activestorage (v6.1.0, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.1.0, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="ak_view_tool (v0.1.0@0fd2e5, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ak_view_tool (v0.1.0, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="autoprefixer-rails (v10.2.0.0, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bcrypt (v3.1.16, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bindex (v0.8.1, RVM: ruby-2.7.1 [railsudemy]) [gem]" level="application" />
